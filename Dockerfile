@@ -1,4 +1,4 @@
-#Loi GitHub Repo
+#Loi GitHub Repo Update Comment
 FROM ubuntu:14.04
 MAINTAINER Docker Education Team <education@docker.com>
 
